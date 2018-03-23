@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\c#_deneme\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\pc\Desktop\c#_deneme\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\pc\Desktop\c#_deneme\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\pc\Desktop\c#_deneme\deneme\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\c#_deneme\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\pc\Desktop\c#_deneme\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\c#_deneme\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\pc\Desktop\c#_deneme\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\pc\Desktop\c#_deneme\deneme\deneme\obj\Debug\deneme.GirisForm.resources
+C:\Users\pc\Desktop\c#_deneme\deneme\deneme\obj\Debug\deneme.ListeForm.resources
+C:\Users\pc\Desktop\c#_deneme\deneme\deneme\obj\Debug\deneme.MalzemeForm.resources
+C:\Users\pc\Desktop\c#_deneme\deneme\deneme\obj\Debug\deneme.SifreForm.resources
+C:\Users\pc\Desktop\c#_deneme\deneme\deneme\obj\Debug\deneme.KayitForm.resources
+C:\Users\pc\Desktop\c#_deneme\deneme\deneme\obj\Debug\deneme.csproj.ResolveComReference.cache
